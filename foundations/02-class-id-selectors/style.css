@@ -1,0 +1,15 @@
+.oddElements {
+    background-color: #FF9999;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#secondElement {
+    color: #0000FF;
+    font-size: 36px;
+}
+.font24 {
+    font-size: 24px;
+}
+#fourthElement {
+    background-color: #66FF66;
+    font-weight: bold;
+}
